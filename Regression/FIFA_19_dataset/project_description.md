@@ -5,4 +5,4 @@
 
 <b>In file number 1</b>, I reviewed and processed the data for the machine learning model. Much of the data was in text format, so I had to make some transformations to be able to pass them to the machine learning model. Finally, I standardized the data using StandarScaler.
 
-<b>In file number 2</b>, I trained 4 different regression models (Linear Regression, SVR, Decision Tree and Random Forest). Next I chose Random Forest for further tuning because it performed best. I used a random search method.
+<b>In file number 2</b>, I trained 4 different regression models (Linear Regression, SVR, Decision Tree and Random Forest). Next I chose Random Forest for further tuning, because it performed best. I used a random search method.
