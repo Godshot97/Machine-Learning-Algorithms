@@ -1,5 +1,5 @@
 <h1>FIFA 19 footballers dataset</h1>
-<h2>This is my first machine learning project.<br> The dataset came from https://www.kaggle.com/karangadiya/fifa19. <br>I created a model estimating the value of a player based on their skills,<br> physical characteristics and recognition.</h2>
+<h2>This is my first machine learning project.<br> The dataset came from https://www.kaggle.com/karangadiya/fifa19. <br>I created a model estimating the value of a player, based on their skills,<br> physical characteristics and recognition.</h2>
 
 <b>Business goal:</b> provide information for football agents and managers of football clubs that will allow them to negotiate more adequate amounts of transfers.
 
